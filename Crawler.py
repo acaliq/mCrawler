@@ -1,6 +1,6 @@
 # This is the Entrance of Crawler
 
-
+# changed to branch 'main'
 
 from WindPy import w
 
@@ -14,3 +14,5 @@ w.isconnected() # 判断WindPy是否已经登录成功
 w.stop()
 
 print("Hello, Crawler Master!")
+
+print('Maoris Go')
